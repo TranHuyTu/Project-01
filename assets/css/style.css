@@ -53,7 +53,7 @@ a {
 }
 /* ===========Header============ */
 
-.fixed-header {
+.header {
     position: relative;
     background-color: #e6f0ff;
     height: 100vh;
